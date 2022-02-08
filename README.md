@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Instinct
+- 👀 I’m interested in C++, Femboys, calling tryharder gay
+- 🌱 I’m currently learning How to find a girlfriend fast
+- 📫 How to reach me: Instinct#3003
