@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning How to find a girlfriend fast
 - 📫 How to reach me: Instinct#6666
 - IM NOT A FEMBOY
-- shy is made cuz he's bad:(
+- shy is mad cuz he's bad:(
