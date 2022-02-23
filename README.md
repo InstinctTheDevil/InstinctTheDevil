@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Instinct
 - 👀 I’m interested in cracking eclipsed)
 - 🌱 I’m currently learning How to find a girlfriend fast
-- 📫 How to reach me: Instinct#3003
+- 📫 How to reach me: Instinct#6666
 - IM NOT A FEMBOY
