@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Instinct
-- 👀 I’m interested in cracking eclipsed)
-- 🌱 I’m currently learning How to find a girlfriend fast
-- 📫 How to reach me: Instinct#6666
-- IM NOT A FEMBOY
-- shy is mad cuz he's bad:(
+- 👀 I’m interested in C++ and client-side security
+- 🌱 I’m currently learning PHP and Webdev
+- 📫 How to reach me: Instinct#6666 or Instinct@Xonium.xyz
+- 🧰 Developer for Xonium.xyz and SerenitySolutions.xyz
