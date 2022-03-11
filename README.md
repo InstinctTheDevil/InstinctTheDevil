@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning PHP and Webdev
 - 📫 How to reach me: Instinct#6666 or Instinct@Xonium.xyz
 - 🧰 Developer for Xonium.xyz and SerenitySolutions.xyz
+- @Tryharderxd is gay
