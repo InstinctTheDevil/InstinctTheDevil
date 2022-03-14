@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++ & Reverse Engineering**
 
-- 📫 How to reach me **Instinct@Xonium.xyz**
+- 📫 How to reach me **Instinct@Xonium.xyz** or **Instinct#6666**
 
 - ⚡ Fun fact **tryharder is that nigga**
 
