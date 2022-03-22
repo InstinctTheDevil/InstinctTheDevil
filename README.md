@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [XoniumXYZ](https://xonium.xyz)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Algebra**
 
 - [Miraii](https://github.com/IamUndetected) has a small penis
 
