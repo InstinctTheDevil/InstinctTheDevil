@@ -23,7 +23,7 @@
 ### Discord:
 <p align="left">
   <a href="https://github.com/OfficialZorpze">
-    <img src="https://discord.c99.nl/widget/theme-2/787520378578796564.png"/>
+    <img src="https://discord.c99.nl/widget/theme-2/938864986942492682.png"/>
      </a>
 </p>
 
