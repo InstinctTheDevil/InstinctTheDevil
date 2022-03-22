@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Java**
 
+- [Miraii](https://github.com/IamUndetected) has a small penis
+
 - 💬 Ask me about **C++ & Reverse Engineering**
 
 - 📫 How to reach me **Instinct@Xonium.xyz** or **Instinct#6666**
