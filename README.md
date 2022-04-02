@@ -20,12 +20,6 @@
 <a href="https://dev.to/instinctdevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="instinctdevil" height="30" width="40" /></a>
 </p>
 
-### Discord:
-<p align="left">
-  <a href="https://github.com/InstinctTheDevil/">
-    <img src="https://discord.c99.nl/widget/theme-2/938864986942492682.png"/>
-     </a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
