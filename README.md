@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Instinct</h1>
 <h3 align="center">A backend developer from Germany</h3>
 
+<img src="https://discord.c99.nl/widget/theme-4/1009247687805251585.png"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=instinctthedevil&label=Profile%20views&color=0e75b6&style=flat" alt="instinctthedevil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=instinctthedevil" alt="instinctthedevil" /></a> </p>
